@@ -1,5 +1,5 @@
-# 💬 Chatbot Khoa Chấn Thương Chỉnh Hình BV Đa Khoa 115 Nghệ An
+# 💬 Chatbot Anh Lập Trình
 
-Chương trình chatbot được tạo ra từ BS.CKII  NGUYỄN VĂN TÚ
+Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
 
 
